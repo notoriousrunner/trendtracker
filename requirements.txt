@@ -1,5 +1,5 @@
-streamlit==1.38.0
-pytrends==4.9.2
-pandas==2.2.2
-plotly==5.24.1
-requests==2.32.3
+streamlit
+pytrends
+pandas
+plotly
+requests
